@@ -1,5 +1,9 @@
 <p align="center"> <a href="https://github.com/failnot3/KanBeast/blob/main/LICENSE">LICENSE :notebook:</a>  </p> 
 
+### Author
+
+Developed by [Drago Failnot3 Ivanov](https://github.com/failnot3).
+
 # KanBeast: Easy-to-Use Open-Source Kanban Board Software
 
 ## About the Project
